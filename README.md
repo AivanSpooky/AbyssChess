@@ -1,5 +1,7 @@
-#Abyss Chess
+# Abyss Chess
 
-##published on YandexGames&itch.io
+## Summer Practice 2024
 
-#Game by [me](https://github.com/AivanSpooky)&[my fellow student](https://github.com/Lesa-yps)
+## published on YandexGames&itch.io
+
+### Game by [me](https://github.com/AivanSpooky)&[my fellow student](https://github.com/Lesa-yps)
